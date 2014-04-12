@@ -1,7 +1,7 @@
 {
   "name": "ktra",
   "description": "The Lightweight Task Tracker.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "app": {
     "background": {
       "scripts": [
@@ -14,7 +14,7 @@
   ],
   "icons": {
     "48": "image/icon_48.png",
-    "128": "image/icon_128.png"
+    "128": "image/icon_128_transparent.png"
   },
   "offline_enabled": true
 }
